@@ -1,0 +1,38 @@
+in condition and loop syntaxes we have: if, else, for, while, do...
+
+if example x = 2 and y = 1:
+if (x == y){
+    //if x equal y, execute function between {}
+}
+else {
+    //if the (if) condition is not satisfied execute this function
+}
+
+There is also "else if", which looks like "if", but is add after the first "if". Unlike "else", 
+"else if" allows you to add another condition.
+
+
+FOR
+
+
+
+while and do
+
+while is used to verify a condition and execute a function if it is true
+example: 
+int x = 3;
+while (x <= 10){
+    //function
+    x++
+}
+//when x value == 10 or >= 10, the script continue
+//
+
+now, do...while is different, "do" execute function and "while" verify if condition is satisfied,
+is not, do again.
+example:
+do{
+    //function
+    x++
+}
+while (x <= 10)
