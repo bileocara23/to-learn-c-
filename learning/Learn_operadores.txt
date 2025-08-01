@@ -1,0 +1,20 @@
+sizeof -> return value of size data
+example: sizeof(int) // 4
+
+?: -> this operator return the value based on condition
+example: string result = (5 > 0) ? "true value" : "false value"
+
+& -> represente the memory adress
+example: &variable
+
+. -> acesses members of variables or class objects
+example: num1.objects()
+
+-> -> is used with pointers to access the class or struct variables
+example: ptr -> x = 2
+
+<< -> print the output values
+example: cout << "hi"
+
+>> -> gets the input value
+example: cin >> num1
